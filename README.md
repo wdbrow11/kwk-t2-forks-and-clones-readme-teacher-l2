@@ -38,3 +38,5 @@ Now we want to get our forked copy of the repository on our local machine. This 
 	git clone your-github-url
 	```
 	This will create a local copy of the repository that corresponds to the URL.
+
+<a href='https://learn.co/lessons/forks-and-clones-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
