@@ -27,7 +27,7 @@ https://github.com/your-username-here/first-lab-001-prework-web
 ##Cloning
 Now we want to get our forked copy of the repository on our local machine. This is where cloning is useful. To do this:
 
-1. Find your forked repo on your Git hub profile
+1. Find your forked repo on your Github profile
 2. Click the "Copy to clipboard" button like the one below. This will copy the URL for us to use when we clone.
 
 	![Clone Repo Button](http://readme-pics.s3.amazonaws.com/clone-repo-clone-url-button.png)
