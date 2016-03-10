@@ -28,11 +28,15 @@ https://github.com/your-username-here/first-lab-001-prework-web
 Now we want to get our forked copy of the repository on our local machine. This is where cloning is useful. To do this:
 
 1. Find your forked repo on your Github profile
-2. Click the "Copy to clipboard" button like the one below. This will copy the URL for us to use when we clone.
+2. Make sure you select `SSH` as your URL type
+
+  ![SSH URl](https://s3.amazonaws.com/learn-verified/ssh)
+  
+3. Click the "Copy to clipboard" button like the one below. This will copy the URL for us to use when we clone.
 
 	![Clone Repo Button](http://readme-pics.s3.amazonaws.com/clone-repo-clone-url-button.png)
 
-3. In the terminal, let's run our clone command. It takes the URL we just copied as an argument:
+4. In the terminal, let's run our clone command. It takes the URL we just copied as an argument:
 
 	```bash
 	git clone your-github-url
