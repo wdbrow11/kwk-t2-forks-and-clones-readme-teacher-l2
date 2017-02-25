@@ -27,9 +27,10 @@ https://github.com/your-username-here/first-lab-001-prework-web
 Now we want to get our forked copy of the repository on our local machine. This is where cloning is useful. To do this:
 
 1. Navigate to your forked repo on GitHub.
-2. Make sure you select `SSH` as your URL type.
+2. Click the "Clone or Download" green button on the right.
+2. Make sure you select `Use SSH` as your URL type.
 
-	![SSH URL](https://s3.amazonaws.com/learn-verified/ssh)
+	![SSH URL](https://files.readme.io/UgsI2ndmR2aH5ky5G1OA_GitHub%20-%20SSH%20-%201.png)
 
 3. Click the "Copy to clipboard" button (highlighted below). This will copy the URL for us to use when we clone.
 
@@ -44,3 +45,5 @@ Now we want to get our forked copy of the repository on our local machine. This 
 	This will create a local copy of our forked GitHub repository.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/forks-and-clones-readme' title='Forks and Clones'>Forks and Clones</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/forks-and-clones-readme'>Git Forks and Clones</a> on Learn.co and start learning to code for free.</p>
