@@ -7,6 +7,7 @@
 3. Push to different remote repos
 
 ## Forking a GitHub Repository
+
 Forking a GitHub repository is just a way to create your own copy of it. We do this all the time while using Learn. Every time you fork a lab, GitHub creates a copy that you can use as a sandbox to play around, all while maintaining a canonical repo where the original lab remains intact. In other words, forking creates another remote that allows you to work in your own world without messing with the core learn-co-students content.
 
 ![Fork Button](http://readme-pics.s3.amazonaws.com/fork_button.jpg)
@@ -24,6 +25,7 @@ https://github.com/your-username-here/first-lab-001-prework-web
 [More on forking in the GitHub docs.](https://help.github.com/enterprise/2.2/user/articles/fork-a-repo/)
 
 ## Cloning
+
 Now we want to get our forked copy of the repository on our local machine. This is where cloning is useful. To do this:
 
 1. Navigate to your forked repo on GitHub.
