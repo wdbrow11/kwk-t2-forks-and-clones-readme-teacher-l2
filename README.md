@@ -84,6 +84,4 @@ own copy.  Often, the original authors will include license information
 regarding how you can use their repository, so make sure to check before you
 publish, sell or distribute any material you've forked, cloned and modified.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/forks-and-clones-readme' title='Forks and Clones'>Forks and Clones</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/forks-and-clones-readme'>Git Forks and Clones</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Forks and Clones</p>

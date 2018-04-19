@@ -9,3 +9,5 @@ tags:
 languages:
   - general
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/forks-and-clones-readme.git
